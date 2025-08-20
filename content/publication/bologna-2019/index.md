@@ -3,7 +3,7 @@ title: "Aligning evaluation with achievement objectives: automated exams based o
 date: 2019-01-01
 publishDate: 2020-03-03T20:59:41.514398Z
 authors: ["Eduardo Bologna", "Marcelo Vaiman", "Matías Alfonso"]
-publication_types: ["1"]
+publication_types: "1"
 featured: false
 publication: "*Decision Making Based on Data* IASE 2019 Satellite Conference: Kuala Lumpur, Malaysia"
 

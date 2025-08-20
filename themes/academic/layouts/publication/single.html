@@ -1,56 +1,74 @@
 {{- define "main" -}}
+{{- $root := . -}}
 
 <div class="pub">
 
-  {{ partial "page_header.html" . }}
+  {{ partial "page_header.html" $root }}
 
   <div class="article-container">
 
-    {{ if .Params.abstract }}
-    <h3>{{ i18n "abstract" }}</h3>
-    <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
+    {{ with $root.Params.abstract }}
+      <h3>{{ i18n "abstract" }}</h3>
+      <p class="pub-abstract">{{ . | markdownify }}</p>
     {{ end }}
 
-    {{ if (.Params.publication_types) and (ne (index .Params.publication_types 0) "0") }}
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
+    {{ with $root.Params.publication_types }}
+      {{/* Normalizar a slice compatible con Hugo 0.96.0 */}}
+      {{ $raw := . }}
+      {{ $type := printf "%T" $raw }}
+      {{ $isSlice := hasPrefix $type "[]" }}
+      {{ $types := (slice) }}
+      {{ if $isSlice }}
+        {{/* ya es slice */}}
+        {{ $types = $raw }}
+      {{ else }}
+        {{/* envolver el escalar como slice */}}
+        {{ $types = (slice $raw) }}
+      {{ end }}
+
+      {{/* Mostrar solo si hay al menos 1 y el primero no es "0" */}}
+      {{ if and (gt (len $types) 0) (ne (printf "%v" (index $types 0)) "0") }}
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication_type" }}</div>
-          <div class="col-12 col-md-9">
-            {{ $pub_types := partial "functions/get_pub_types" $ }}
-            {{ range $index, $pubtype := .Params.publication_types }}
-            <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ . | urlize }}">
-              {{ index $pub_types (int .) }}
-            </a>
-            {{ end }}
+          <div class="col-md-1"></div>
+          <div class="col-md-10">
+            <div class="row">
+              <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication_type" }}</div>
+              <div class="col-12 col-md-9">
+                {{ $pub_types := partial "functions/get_pub_types" $root }}
+                {{ range $i, $t := $types }}
+                  {{ $tstr := printf "%v" $t }}
+                  <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ $tstr | urlize }}">
+                    {{ index $pub_types (int $tstr) }}
+                  </a>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+          <div class="col-md-1"></div>
+        </div>
+        <div class="d-md-none space-below"></div>
+      {{ end }}
+    {{ end }}
+
+    {{ with $root.Params.publication }}
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication" }}</div>
+            <div class="col-12 col-md-9">{{ . | markdownify }}</div>
           </div>
         </div>
+        <div class="col-md-1"></div>
       </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    {{ end }}
-
-    {{ if .Params.publication }}
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication" }}</div>
-          <div class="col-12 col-md-9">{{ .Params.publication | markdownify }}</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
+      <div class="d-md-none space-below"></div>
     {{ end }}
 
     <div class="space-below"></div>
 
-    <div class="article-style">{{ .Content }}</div>
+    <div class="article-style">{{ $root.Content }}</div>
 
-    {{ partial "page_footer" . }}
+    {{ partial "page_footer" $root }}
 
   </div>
 </div>

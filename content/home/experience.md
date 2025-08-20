@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Facultad de Ciencias Sociales - Universidad Nacional de Córdoba"
   company_url = "https://sociales.unc.edu.ar/posgrado/secretaria-de-posgrado"
   location = "Córdoba - Argentina"
-  date_start = "2021-12-1"
-  date_end = ""
+  date_start = "2021-12-01"
+  date_end = "2025-07-31"
   description = """Es el ámbito institucional responsable del fomento, organización, seguimiento académico y fiscalización de las actividades de posgrado que se realizan en la Facultad.  
 Actualmente esas actividades consisten en numerosos cursos y programas de formación no estructurados y 22 carreras de posgrado: 7 Doctorados, 11 Maestrías y 4 Especializaciones, alojadas en el CEA (Centro de Estudios Avanzados), el IIFAP (Instituto de Investigación y Formación en Administración Pública) y el IPSIS (Instituto de Política, Sociedad e Intervención Social), todos ellos dependientes de la Facultad de Ciencias Sociales - UNC.  
   """
