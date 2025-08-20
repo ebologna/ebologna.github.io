@@ -2,7 +2,7 @@
 title: Pirámides de Población con ggplot2
 author: Eduardo Bologna
 summary: Una forma fácil de representar distribuciones de población por sexo y edad
-date: '2020-04-10'
+date: '2025-06-10'
 slug: piramides-2
 categories: []
 tags: ["pirámides de poblacion", "ggplot2", "demografía"]

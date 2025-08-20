@@ -4,7 +4,7 @@ authors:
 - admin
 categories:
 - Demo
-date: "2020-04-13"
+date: "2025-08-13"
 tags: [ "visualización de datos", "ggplot2", "Encuesta Permanente de Hogares"]
 draft: false
 ---

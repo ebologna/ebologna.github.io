@@ -2,7 +2,7 @@
 title: Conocimiento validado y toma de decisión
 author: ''
 summary: También las revistas prestigiosas pueden ser víctimas de publicaciones de mala calidad
-date: '2020-04-04'
+date: '2025-07-04'
 categories: []
 tags: ["reproducibilidad", "ciencia abierta", "fake science"]
 bibliography: reproducibilidad.bib

@@ -7,7 +7,7 @@ authors:
 
 categories:
 - Demo
-date: "2020-04-13"
+date: "2025-05-13"
 lastmod: "2020-04-01T00:00:00Z"
 tags: ["participación laboral", "gender-gap", "brecha de género"]
 featured: true
