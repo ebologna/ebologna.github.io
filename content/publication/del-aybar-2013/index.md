@@ -10,6 +10,6 @@ publication: "*Migraciones Internacionales*"
 tags: ["Migration network", "Peruvian migration", "South-south migration", "Transnational community", "Transnationalism"]
 links:
 - name: acceder
-  url: 10.17428/rmi.v6i24.715
+  url: https://migracionesinternacionales.colef.mx/index.php/migracionesinternacionales/article/view/715
 ---
 

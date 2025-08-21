@@ -10,7 +10,7 @@ publication: ""
 
 links:
 - name: acceder
-  url: http://www.alapop.org/alap/index.php?option=com_content&view=article&id=250&Itemid=437
+  url: https://www.alapop.org/2021/12/migrantes-latinoamericanos-el-estado-de-las-investigaciones-en-la-region/
 
 
 # Featured image

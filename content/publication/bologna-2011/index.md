@@ -9,6 +9,6 @@ featured: false
 publication: "*Revista Evaluar*"
 links:
 - name: acceder
-  url: 10.35670/1667-4545.v11.n1.2842
+  url: https://dialnet.unirioja.es/servlet/articulo?codigo=9117457
 ---
 

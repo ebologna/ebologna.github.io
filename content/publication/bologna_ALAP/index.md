@@ -10,7 +10,7 @@ publication: ""
 
 links:
 - name: acceder
-  url: http://www.alapop.org/alap/index.php?option=com_content&view=article&id=530&Itemid=437
+  url: https://www.alapop.org/2021/12/tematicas-migratorias-actuales-en-america-latina-remesas-politicas-y-emigracion/
 
 
 # Featured image
