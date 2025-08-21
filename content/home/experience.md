@@ -101,12 +101,14 @@ Actualmente esas actividades consisten en numerosos cursos y programas de formac
 
 [[experience]]
   title = "Director"
-  company = "Programa Población Desigualdad y Políticas Públicas"
+  company = "Programa Migraciones y Movilidad Territorial de la Población"
   company_url = "http://pdypp.cea.unc.edu.ar/"
   location = "Córdoba - Argentina"
   date_start = "2016-01-03"
   date_end = ""
   description = """
-  Un programa que nuclea proyectos de investigación que estudian las interacciones entre procesos de estratificación social, vectores de desigualdad (género, etnia, origen migratorio) y políticas públicas.
+  El Programa es un espacio que articula equipos de investigación y tesistas de posgrado que trabajan en torno a los desplazamientos de poblaciones humanas en perspectiva sociodemográfica.
+
+La existencia de este espacio aporta a generar y fortalecer vínculos entre personas y grupos que estudian las migraciones, facilita las direcciones de tesis, la búsqueda de financiamiento externo para proyectos de investigación y de convocatorias para consultorías en el tema. Además, el programa articula con carreras de posgrado, en las que se desempeñan algunos de sus integrantes.
   """
 +++
