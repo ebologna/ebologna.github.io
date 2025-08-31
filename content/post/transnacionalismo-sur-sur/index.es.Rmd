@@ -1,0 +1,30 @@
+---
+title: El concepto de transnacionalismo entre países del sur global
+author: eb
+date: '2025-08-31'
+slug: []
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2025-08-31T11:02:20-03:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: biblio.bib
+---
+
+La gran variedad de estudios etnográficos y antropológicos sobre migraciones, con hallazgos situados y a veces divergentes, hace indispensable un marco teórico interpretativo que permita relacionar esos resultados, reconocer patrones comunes y darles sentido más allá de la particularidad de cada caso.
+Como en todo intento de comprender procesos, en el estudio de las migraciones, la clasificación es una operación necesaria para ordenar la diversidad empírica, y debe decidirse primeramente el nivel de detalle de esa clasificación: si es excesivamente específica, cada situación particular es diferente a las otras y se pierde la posibilidad de identificar regularidades y procesos comunes que trascienden lo particular; por el contrario, el intento por encontrar aspectos generales corre riesgo de perder de vista matices. Los enfoque teóricos que se desarrollaron a partir de la segunda mitad del siglo XX para explicar las migraciones, no son contradictorios entre sí, dado que ponen el foco de atención sobre diferentes aspectos de los movimientos de población, como lo resumen @massey1998 y @arango2003. La teoría de la causalidad acumulativa (@myrdal1957; @massey1990; @fussell2010) permite considerar que estos enfoques tienen cierto grado de complementariedad, aunque con variaciones según cada contextos. Sin embargo, las movilidad humana actual toma formas diversas en cuanto a espacios geográficos, tipos de vínculos con las sociedades de emisión y de recepción, intensidad y periodicidad, con lo que la idea de "continuidad" de los flujos migratorios merece revisión.
+Nuestro equipo trabaja sobre migraciones en perspectiva sociodemográfica y pone el acento en movimientos entre países del "sur global". Este recorte aparentemente geográfico, es impreciso y se usa a menudo en los estudios sobre migraciones internacionales para distinguir dos grandes tipo de flujos; los que se dirigen hacia los polos de desarrollo global y los que suceden entre países con nivel de desarrollo similar y variable. Nuestra pregunta es por el modo de expandir los marcos teóricos vigentes para incluir las particularidades de esta migración entre países cuyo grado de bienestar relativo varía con el tiempo. Las migraciones sur - norte, conectan países que tienen brechas de desarrollo persistentes en el tiempo y, fue con la mirada en esas migraciones que se formuló el concepto de transnacionalismo para denominar procesos en los que los migrantes mantienen vidas en dos países distintos (hogares, lenguas, prácticas políticas y económicas) y configuran comunidades consolidadas a las que se asigna el término transnacionales (@glickschiller1992; @portes1999; @carling2021). Aunque no hay consenso general, la idea de transnaconalismo implica: doble residencia, ciudadanía dual, y la existencia de instituciones que cruzan fronteras nacionales.  
+
+En el caso de las migraciones sur-sur, también se observan vínculos duraderos entre origen y destino, redes que facilitan nuevas migraciones y estructuras sociales que atraviesan fronteras. Sin embargo, se diferencian en varios aspectos, el primero de los cuales es la inestabilidad de las que constituyen áreas de origen y de destino de los flujos, dado que países que en un período son receptores pueden convertirse en emisores pocos años después, según coyunturas económicas o políticas.  Además, las condiciones materiales suelen ser más frágiles, porque los recursos económicos y legales disponibles a menudo limitan la posibilidad de sostener una doble vida plena en dos países, como sí se observa en algunos casos de migraciones sur - norte. En tercer lugar las redes tienden a favorecer la inserción laboral en nichos específicos, y son menos frecuentes la comunidades institucionalizadas.  
+
+Dadas estas diferencias, resulta necesario repensar el concepto de transnacionalismo para aplicarlo a los casos de migraciones entre países del sur global, reconociendo que generan estructuras estables de intercambio y pertenencia entre países, pero que no siempre cumplen con los criterios estrictos implicados en la definición de transnacionalismo.  
+
+ Referencias  
+ 
