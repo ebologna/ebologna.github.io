@@ -19,11 +19,11 @@ projects: []
 
 ![](cinco.png)
 
-**Carrera de posgrado** con modalidad a distancia  
+## **Carrera de posgrado** - modalidad a distancia  
 [Especialización en Producción y Análisis de Información pora Políticas Públicas](https://sociales.unc.edu.ar/informacionparapoliticaspublicas)  
 Centro de Estudios Avanzados - Facultad de Ciencias Sociales - Universidad Nacional de Córdoba
 
 
-**Curso de posgrado** con cursado remoto  
-Análisis de datos con software libre
+## **Curso de posgrado** - cursado remoto  
+[Análisis de datos con software libre](programa.pdf)
 Facultad de Psicología - Universidad Nacional de Córdoba  
