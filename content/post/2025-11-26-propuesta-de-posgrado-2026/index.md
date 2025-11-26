@@ -1,5 +1,5 @@
 ---
-title: Propuestas de Posgrado 2026
+title: Propuestas de Formación de Posgrado 2026
 author: ''
 date: '2025-11-26'
 slug: []
