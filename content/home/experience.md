@@ -32,6 +32,19 @@ date_format = "Jan 2006"
   * Gestión
   """
 
+
+[[experience]]
+  title = "Coordinador"
+  company = "Oficina de Estadísticas - Observatorio Social y Cultural para el Desarrollo Sostenible - Secretaría de Ciencia y Tecnología - Universidad Nacional de Córdoba"
+  company_url = "https://www.unc.edu.ar/ciencia-y-tecnolog%C3%ADa/observatorio-social-y-cultural-para-el-desarrollo-sostenible"
+  location = "Córdoba - Argentina"
+  date_start = "2025-10-01"
+  date_end = ""
+  description = """Espacio destinado a coordinar y gestionar la producción de datos cuantitativos que forma parte de los proyectos del Observatorio"""
+
+
+
+
 [[experience]]
   title = "Secretario de Posgrado"
   company = "Facultad de Ciencias Sociales - Universidad Nacional de Córdoba"
