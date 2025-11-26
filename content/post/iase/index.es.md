@@ -19,7 +19,8 @@ projects: []
 
 International Association for Statistical Education
 Satellite Conference  
-*Statistics and Data Science Education in STEAM*
+*Statistics and Data Science Education in STEAM*  
+
 Münster, 30/09 - 02/10/2025  
 
 [The potential use of AI for conducting follow-up assessments in massive statistics
