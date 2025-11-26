@@ -1,0 +1,12 @@
+/* Importar fuente Merriweather de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+/* Aplicar la fuente al cuerpo del texto (párrafos, listas, etc.) */
+body {
+  font-family: 'Merriweather', 'Georgia', serif !important;
+}
+
+/* Aplicar la fuente a los títulos (H1, H2, menú, etc.) */
+h1, h2, h3, h4, h5, h6, .navbar-brand, .nav-link, .card-title {
+  font-family: 'Merriweather', 'Georgia', serif !important;
+}
